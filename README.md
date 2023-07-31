@@ -42,6 +42,9 @@ listNFTs();
 
 console.log("Total NFTs: " + getTotalSupply());
 
+```
+
+
 ## Author
 
 **Ashish Kumar**
